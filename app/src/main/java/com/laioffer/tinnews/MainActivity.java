@@ -9,13 +9,7 @@ import android.os.Bundle;
 import android.util.Log;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.laioffer.tinnews.model.NewsResponse;
-import com.laioffer.tinnews.network.NewsApi;
-import com.laioffer.tinnews.network.RetrofitClient;
 
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
 
 public class MainActivity extends AppCompatActivity {
 
